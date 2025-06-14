@@ -13,5 +13,6 @@ public class Customer {
         account.depositMoney(120);
         account.withdrawMoney(-120);
         account.withdrawMoney(120);
+        account.depositMoney(100);
     }
 }
