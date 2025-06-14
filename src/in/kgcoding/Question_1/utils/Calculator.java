@@ -1,7 +1,7 @@
-package in.kgcoding.utils;
+package in.kgcoding.Question_1.utils;
 
-import in.kgcoding.geometry.Circle;
-import in.kgcoding.geometry.Rectangle;
+import in.kgcoding.Question_1.geometry.Circle;
+import in.kgcoding.Question_1.geometry.Rectangle;
 
 public class Calculator {
     public static void main(String[] args) {
